@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.web.liift</groupId>
-	<artifactId>TrackSheet</artifactId>
+	<artifactId>Liift</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>TrackSheet</name>
+	<name>fiift</name>
 	<description>Capstone project for Spring Boot</description>
 
 	<properties>
